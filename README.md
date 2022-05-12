@@ -6,7 +6,7 @@
 ```
 repositories {
         maven {
-            url "https://raw.github.com/oxtondevaccount/update_checker/main"
+            url "https://raw.github.com/oxtonAccount/update_checker/main"
         }
 ....
 }
